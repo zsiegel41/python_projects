@@ -3,7 +3,7 @@ print(string_ex[0])
 print(string_ex[1])
 print(string_ex[2])
 print(string_ex[3])
-print(string_ex[4])
+
 
 
 first_string = input("Enter a word: ")
